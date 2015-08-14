@@ -1,0 +1,37 @@
+﻿.default {
+    margin-left: 100px;
+    float:left;
+}
+
+.textbox {
+    padding: 5px;
+    height: auto;
+    margin:  10px 0 10px 0;
+    border: 1px solid #cdcdcd;
+    background-color: white;
+    font-size: 12px;
+    text-align: left;
+    width: 140px;
+}
+
+.btnSubmit {
+    border-radius: 15px;
+    width: 152px;
+    cursor: pointer;
+    padding: 5px;
+}
+
+#divCount {
+    font-size: 60px;
+    font-family: Calibri;
+    width: 140px;
+    height: 60px;
+    margin: 20px 0 20px 0;
+    text-align:center;
+}
+
+#inputNumber {
+    text-align:right;
+    padding-right:5px;
+    font-size:14px;
+}
