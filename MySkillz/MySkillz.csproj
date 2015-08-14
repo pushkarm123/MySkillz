@@ -167,6 +167,9 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Account\Web.config" />
+    <Content Include="SQL Scripts\CreateDBTable.sql" />
+    <Content Include="SQL Scripts\DeleteRecords.sql" />
+    <Content Include="SQL Scripts\InsertSQLQuery.sql" />
     <Content Include="StyleSheets\MySkillz.css" />
     <Content Include="WebPages\canmakeanewpage.aspx" />
     <Content Include="WebPages\CanMakeAPage.aspx" />
